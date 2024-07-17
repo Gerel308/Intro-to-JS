@@ -20,7 +20,7 @@ if (time < 18) {
   document.getElementById("demo9").innerHTML = "Good evening";
 }
 //if else Statements
-let grade = 90;
+let grade = 70;
 if (grade >= 90) {
   document.getElementById("demo10").innerHTML = "A";
 } else if (grade >= 80) {
